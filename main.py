@@ -18,5 +18,3 @@ try:
 except:
     print("Vous devez installer les modules `OS` sans ça le code ne pourra fonctionner.")
     pass
-
-#----------------------| ! Execution du Bot ! |----------------------#
