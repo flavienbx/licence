@@ -1,10 +1,10 @@
 Variable Active dès lors qu'une licence est valide.  
   
-#------| ! JSON (Param: version, main) ! |------#  
+<p align="center">#------| ! JSON (Param: version, main) ! |------#</p>  
   
 API_Return_LICENCE  
   
-#------| ! STR ! |------#  
+<p align="center">#------| ! STR ! |------#</p> 
   
 API_Return_INTEGRATION_DiscordID  
 API_Return_INTEGRATION_DiscordUsername  
@@ -20,7 +20,7 @@ API_Return_PLAN_RecurringCount
 API_Return_PLAN_Type  
 API_Return_PLAN_Devise  
   
-#------| ! TEXT ! |------#  
+<p align="center">#------| ! TEXT ! |------#</p> 
   
 VAR_TEXT_Devise  
 VAR_TEXT_AmountInterval  
