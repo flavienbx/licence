@@ -1,8 +1,8 @@
-<h3 align="center">#------| ! JSON (Param: version, main) ! |------#</h3>  
+<h3 align="left">#------| ! JSON (Param: version, main) ! |------#</h3>  
   
 - API_Return_LICENCE  
   
-<h3 align="center">#------| ! STR ! |------#</h3> 
+<h3 align="left">#------| ! STR ! |------#</h3> 
   
 - API_Return_INTEGRATION_DiscordID  
 - API_Return_INTEGRATION_DiscordUsername  
@@ -18,7 +18,7 @@
 - API_Return_PLAN_Type  
 - API_Return_PLAN_Devise  
   
-<h3 align="center">#------| ! TEXT ! |------#</h3> 
+<h3 align="left">#------| ! TEXT ! |------#</h3> 
   
 - VAR_TEXT_Devise  
 - VAR_TEXT_AmountInterval  
