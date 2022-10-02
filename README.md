@@ -2,7 +2,7 @@
   
 - API_Return_LICENCE  
   
-<h3 align="center">#------| ! STR ! |------#</p> 
+<h3 align="center">#------| ! STR ! |------#</h3> 
   
 - API_Return_INTEGRATION_DiscordID  
 - API_Return_INTEGRATION_DiscordUsername  
